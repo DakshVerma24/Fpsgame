@@ -1,0 +1,10 @@
+{
+  "name": "Cyber District FPS",
+  "description": "A fast-paced tactical multiplayer FPS inspired by Deadshot.io, featuring fluid slide-hopping, air-strafing, cargo arena maps, and competitive esports gunplay.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

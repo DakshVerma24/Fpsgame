@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for resolving the Neo Tokyo map mesh inaccuracy by performing deep-clone mesh extraction from littlest-neo-tokyo-fast-low.glb, removing the distorted outline shell, calibrating PBR materials, and preserving the world hierarchy and animated train tracks.",
+  "updatedAt":  "2026-10-05T12:39:38.852417154Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
